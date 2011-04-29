@@ -1,0 +1,56 @@
+body
+{
+  background: #000066;
+  color: #ffffff;
+  font-family: monospace;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  margin: 1em 3em;
+}
+  
+a,a:link,a:visited,a:active,hr
+{
+  color: #317EE7;
+  font-weight: bold;
+}
+
+a:hover
+{
+  color: #FFFF00;
+}
+
+a[href^="http://"],
+a[href^="https://"]
+{
+  font-weight: normal;
+}
+
+h1
+{
+  font-size: 1.6em;
+}
+
+h2
+{
+  font-size: 1.4em;
+}
+
+h3
+{
+  font-size: 1.2em;
+}
+
+dt
+{
+  font-weight: bold;
+}
+
+em,b,strong,dt
+{
+  color: #ffff00;
+}
+
+p.updated a
+{
+  color: #000066;
+}
